@@ -1,7 +1,7 @@
 name: selendra_did
-description: A new Flutter package project.
+description: Selendra did packages for mint digital identification.
 version: 0.0.1
-homepage:
+homepage: https://github.com/selendra/selendra-did-package
 
 environment:
   sdk: '>=2.18.1 <3.0.0'
